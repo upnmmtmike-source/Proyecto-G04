@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\Usuario\Desktop\Vladimir\CASOS T1\Caso 3 - Sistema de Ventas\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3801994789.index
+3505861149.index
+1879731284.index
